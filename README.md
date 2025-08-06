@@ -57,3 +57,9 @@ streamlit run app.py
 ### 🎉 Check Out My Other Fun Project
 👉 [Excel Chat Bot](https://github.com/MahammedRehman/excel-chatbot-no-code.git) : 
 I built an Excel chatbot using AI — without writing a single line of code!
+
+<p align="right">
+  <img src="Assests/hamster.png" alt="Peace Image" width="150"/>
+  <br>
+  <em>Peace Out ✌️</em>
+</p>
