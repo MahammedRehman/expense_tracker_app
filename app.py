@@ -6,6 +6,10 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Expense Insights", layout="wide")
 st.title("📄 Daily Expense Analyzer")
 st.markdown("Upload a transaction PDF to get insights about your expenses and income.")
+st.markdown("""
+Upload a transaction PDF to get insights about your expenses and income.  
+📝 **Note:** Upload your **PhonePe transaction history PDF** (Transaction Statements only).
+""")
 
 # Upload PDF
 uploaded_file = st.file_uploader("Upload your transaction PDF", type=["pdf"])
